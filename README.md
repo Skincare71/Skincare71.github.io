@@ -71,7 +71,7 @@ background:black;
 
 <body>
 
-<header>Matrix Store</header>
+<header>Welcome to our Skin care store</header>
 
 <div class="contact">
 📞 Order on WhatsApp / Phone: <b>+255 772000090</b>
@@ -116,7 +116,7 @@ background:black;
 </div>
 
 <footer>
-© 2026 Matrix Store <br>
+© 2026 Skin Care <br>
 Contact: +255 772000090
 </footer>
 
